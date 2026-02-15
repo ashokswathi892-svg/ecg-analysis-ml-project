@@ -42,7 +42,7 @@ The model is trained using classification algorithms such as:
 ## ▶ How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/ecg-analysis-ml-project.git
+   git clone https://github.com/ashokswathi892-svg/ecg-analysis-ml-project.git
 
 2. Install dependencies:
    pip install -r requirements.txt
